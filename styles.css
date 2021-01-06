@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(purple, #51c2db, blue);
+    color: white;
+}
+
+.gif {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+}
+
+.musicians {
+    display: flex;
+    justify-content: space-around;
+    border: 5px groove white;
+}
+
+.shows {
+    display: flex;
+    justify-content: space-around;
+        border: 5px dashed white;
+
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.hobbies {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+
+}
